@@ -1,4 +1,4 @@
-package Muaaz;
+package Musaib;
 
 class Edible {
     static class Fruit {
