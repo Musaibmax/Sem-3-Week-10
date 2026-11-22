@@ -1,4 +1,4 @@
-package Muaaz;
+package Musaib;
 
 public class Week10_3_MinMaxAddOverloading {
     static void minMaxAdd(int first, int second) {
